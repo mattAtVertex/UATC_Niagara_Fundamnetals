@@ -1,0 +1,5 @@
+# Enabling Niagara Fluids Plugin
+
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22127/preview?verifier=nD5UhdTl4b5PnxzCnja3huyl1BaHJPpbmAeOheiD" alt="Artboard 8.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22127" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22128/preview?verifier=7ZeDmR7cee0dqE15fZsyVlMWiPi3sd08QFptBdcR" alt="Artboard 9.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22128" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22129/preview?verifier=HZElMqsM2dkH5nZGk5TODK9Z78pReCczUkUNdvK7" alt="Artboard 10.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22129" data-api-returntype="File"></p>
