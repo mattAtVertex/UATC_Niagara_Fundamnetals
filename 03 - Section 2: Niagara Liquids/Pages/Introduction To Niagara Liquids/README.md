@@ -1,0 +1,7 @@
+# Introduction To Niagara Liquids
+
+<p>7<img src="https://vertexschool.instructure.com/courses/319/files/22122/preview?verifier=j8tx3SbpAv9uICfSskvWcJvCNf6FjtnTZoRXiTYt" alt="Artboard 3.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22122" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22123/preview?verifier=kyxNmM21VTMOjAEKwYU6dZ08rtqalmSqqytL6Wn8" alt="Artboard 4.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22123" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22124/preview?verifier=SSJoGt7uCDo9ynFor29SlXC0bMB31nHJk5CGcN7s" alt="Artboard 5.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22124" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22125/preview?verifier=zk1IWfEC94sL4hZX8VDw86wc8cLmQqPrmkfcN1Vs" alt="Artboard 6.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22125" data-api-returntype="File"></p>
+<p><img src="https://vertexschool.instructure.com/courses/319/files/22126/preview?verifier=B1VE7qx9k3CbETSRjYyvbwqUem9gBe1JF54TLbdp" alt="Artboard 7.png" data-api-endpoint="https://vertexschool.instructure.com/api/v1/courses/319/files/22126" data-api-returntype="File"></p>
